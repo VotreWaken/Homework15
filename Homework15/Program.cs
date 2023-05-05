@@ -2,7 +2,7 @@
 using System;
 using System.Security.Cryptography.X509Certificates;
 
-namespace _13._04._2023
+namespace Homework15
 {
     internal class Program
     {
